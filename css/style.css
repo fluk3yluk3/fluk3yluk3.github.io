@@ -293,7 +293,7 @@ main {
 	z-index: 100;
 	
 	-webkit-animation-name: STAR-MOVE;
-	-webkit-animation-duration: 600s;
+	-webkit-animation-duration: 5000s;
 	-webkit-animation-timing-function: linear;
 	-webkit-animation-iteration-count: infinite;
 }
@@ -305,7 +305,7 @@ main {
 	z-index: 200;
 	
 	-webkit-animation-name: STAR-MOVE;
-	-webkit-animation-duration: 450s;
+	-webkit-animation-duration: 1000s;
 	-webkit-animation-timing-function: linear;
 	-webkit-animation-iteration-count: infinite;
 }
