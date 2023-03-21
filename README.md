@@ -24,4 +24,4 @@ Arda Acar has a great [wiki](https://github.com/ardacarofficial/links-website/wi
 Upload your files to any hosting including GitHub Pages or any basic web server. No heavy requirements - it's a static site with only html and css!
 
 # License
-Distributed under the MIT license. See [LICENSE](https://github.com/ardacarofficial/links-website/blob/main/LICENSE "LICENSE") file for more information.
+Distributed under the MIT license. See [LICENSE](https://github.com/fluk3yluk3/fluk3yluk3.github.io/blob/main/LICENSE "LICENSE") file for more information.
