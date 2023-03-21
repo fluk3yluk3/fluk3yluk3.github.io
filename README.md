@@ -16,7 +16,7 @@ git clone https://github.com/fluk3yluk3/fluk3yluk3.github.io.git
 
 # Configuration
 
-[Arda Acar](https://github.com/ardacarofficial/links-website/wiki "Arda Acar") has a great wiki documenting code modifications.
+Arda Acar has a great [wiki](https://github.com/ardacarofficial/links-website/wiki "wiki" documenting code modifications.
 
 # Run
 Upload your files to any hosting including GitHub Pages or any basic web server. No heavy requirements - it's a static site with only html and css!
