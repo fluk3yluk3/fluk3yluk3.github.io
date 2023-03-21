@@ -1,6 +1,6 @@
 # Portfolio site
 
-![screenshot](https://fluk3yluk3.github.io/fluk3yluk3.github.io/img/screenshot.png)
+![screenshot](https://fluk3yluk3.github.io/img/screenshot.png)
 
 Credit for inspiration and most of the code: https://github.com/ardacarofficial/links-website
 
