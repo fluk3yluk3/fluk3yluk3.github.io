@@ -1,6 +1,6 @@
 # Portfolio site
 
-Credit for inspiration and most of the code: https://ardacarofficial.github.io/links-website/
+Credit for inspiration and most of the code: https://github.com/ardacarofficial/links-website
 
 Credit for the parallax star background using css: https://css-tricks.com/parallax-background-css3/
 
@@ -11,7 +11,7 @@ What did I actually do? I brought these two together and made some modifications
 Clone the repository with the following command:
 
 ```sh
-git clone https://github.com/fluk3yluk3/portfolio-website.git
+git clone https://github.com/fluk3yluk3/fluk3yluk3.github.io.git
 ```
 
 # Configuration
@@ -22,4 +22,4 @@ git clone https://github.com/fluk3yluk3/portfolio-website.git
 Upload your files to any hosting including GitHub Pages or any basic web server. No heavy requirements - it's a static site with only html and css!
 
 # License
-Distributed under the MIT license. See [LICENSE](https://github.com/fluk3yluk3/portfolio-website "LICENSE") file for more information.
+Distributed under the MIT license. See [LICENSE](https://github.com/ardacarofficial/links-website/blob/main/LICENSE "LICENSE") file for more information.
