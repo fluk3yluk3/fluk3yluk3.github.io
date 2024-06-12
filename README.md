@@ -1,7 +1,5 @@
 # Portfolio site
 
-![screenshot](https://fluk3yluk3.github.io/img/screenshot.png)
-
 Credit for inspiration and most of the code: https://github.com/ardacarofficial/links-website
 
 Credit for the parallax star background using css: https://css-tricks.com/parallax-background-css3/
